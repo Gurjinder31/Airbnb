@@ -1,6 +1,6 @@
 # Airbnb-Clone
 ## Deployed on Firebase:
-### Click link below to view the user interface of application
+### Click link below to view the user interface of application:
 https://airbnb-2594c.web.app/
 
 
