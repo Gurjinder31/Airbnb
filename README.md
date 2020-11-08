@@ -2,7 +2,7 @@
 ## Deployed on Firebase:
 ### Click link below to view the user interface of application
 https://airbnb-2594c.web.app/
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 
 ## Available Scripts
